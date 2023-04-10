@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lock_screen_setting.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_lock_screen_setting.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_note.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_add_note.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sort_note.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_sort_note.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_backup_data.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_backup_data.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\card_item_linear.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\card_item_linear.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_sort_note.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_add_sort_note.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_change_avatar.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_change_avatar.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\sort_note_attribute_layout.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\sort_note_attribute_layout.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_sort_note.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_edit_sort_note.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_time_remind.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_time_remind.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_mine.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\sort_note_card_item.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\sort_note_card_item.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_layout_sort_note_list_item.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\header_layout_sort_note_list_item.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_note_list.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\fragment_note_list.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_note_sort.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\fragment_note_sort.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\card_item_grid.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\card_item_grid.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_note_attribute.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_edit_note_attribute.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\sort_note_list_item.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\sort_note_list_item.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\icon_list_item.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\icon_list_item.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\note_attribute_layout.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\note_attribute_layout.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_layout.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dark_theme_setting.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\activity_dark_theme_setting.xml"
+    },
+    {
+        "merged": "E:\\bisheproject\\CustomLockScreen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_setting.xml",
+        "source": "E:\\bisheproject\\CustomLockScreen-master\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    }
+]
