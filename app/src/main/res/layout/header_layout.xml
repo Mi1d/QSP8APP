@@ -34,7 +34,7 @@
                     android:id="@+id/top_text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/drawer_top_text"
+                    android:text="Value highly your time"
                     android:fontFamily="@font/montserrat_medium"
                     android:textSize="15sp"
                     android:textColor="#fff"

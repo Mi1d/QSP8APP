@@ -19,7 +19,7 @@
             android:background="@color/colorPrimaryDark"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
             app:popupTheme="@style/OverflowMenuStyle"
-            app:title="Set Dark mode"
+            app:title="Set Theme"
             />
 
         <RelativeLayout
@@ -92,7 +92,7 @@
 
             <TextView
                 android:id="@+id/dark_theme_tx"
-                android:text="Dark mode"
+                android:text="Dark theme"
                 android:layout_toEndOf="@+id/dark_theme_icon"
                 style="@style/linear_item_text_behind_icon"
                 />
@@ -130,7 +130,7 @@
 
             <TextView
                 android:id="@+id/day_theme_tx"
-                android:text="Light mode"
+                android:text="Light theme"
                 android:layout_toEndOf="@+id/day_theme_icon"
                 style="@style/linear_item_text_behind_icon"
                 />

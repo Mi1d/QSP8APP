@@ -30,7 +30,7 @@
 
             <TextView
                 android:id="@+id/dark_theme_tx"
-                android:text="Dark mode"
+                android:text="Dark theme"
                 android:layout_toEndOf="@+id/dark_theme_icon"
                 style="@style/linear_item_text_behind_icon"
                 />
