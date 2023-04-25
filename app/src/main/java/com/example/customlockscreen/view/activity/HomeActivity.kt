@@ -80,7 +80,7 @@ class HomeActivity : AppCompatActivity() {
         val textView = headerLayout.findViewById<TextView>(R.id.all_labels_count)
         headerLayout.findViewById<RelativeLayout>(R.id.all_labels_layout).setOnClickListener {
             binding.drawerLayout.closeDrawers()
-            EventBus.getDefault().post(MessageEvent("全部"))
+            EventBus.getDefault().post(MessageEvent("All"))
             binding.homeViewPager.currentItem = 0
         }
 

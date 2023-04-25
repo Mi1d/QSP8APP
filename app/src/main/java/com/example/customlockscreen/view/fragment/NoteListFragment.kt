@@ -80,7 +80,7 @@ class NoteListFragment : Fragment() {
             val calendar = Calendar.getInstance(TimeZone.getTimeZone("GMT+8"))
             val nextYear = calendar.get(Calendar.YEAR) + 1
             calendar.set(nextYear,0,1)
-            labelDao.insertLabel(Label("新年",calendar.timeInMillis,System.currentTimeMillis()))
+            labelDao.insertLabel(Label("New Year",calendar.timeInMillis,System.currentTimeMillis()))
         }
 
 
@@ -313,9 +313,9 @@ class NoteListFragment : Fragment() {
 
         binding.homeHeaderTopDay.text = Math.abs(day).toString()
         if(day>=0){
-            binding.homeHeaderTopDateJustText.text = "目标："
+            binding.homeHeaderTopDateJustText.text = "Target："
         }else{
-            binding.homeHeaderTopDateJustText.text = "开始："
+            binding.homeHeaderTopDateJustText.text = "Begin："
         }
     }
 

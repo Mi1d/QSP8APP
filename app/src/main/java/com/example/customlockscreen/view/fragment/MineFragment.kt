@@ -58,15 +58,7 @@ class MineFragment : Fragment() {
 
 
 
-        // TODO: 2022/1/25 头像
-//        val avatarPath = "${FileUtil.getAvatarCacheDir(this.context!!)}/avatar.png"
-//
-//        if(FileUtil.isExistFile(avatarPath)){
-//            val file = File(avatarPath)
-//            Glide.with(this.context!!).load(file).into(binding.mineAvater)
-//        }else{
-//            Glide.with(this.context!!).load(R.drawable.avater).into(binding.mineAvater)
-//        }
+
 
         Glide.with(this.requireContext()).load(R.drawable.avater).into(binding.mineAvater)
 

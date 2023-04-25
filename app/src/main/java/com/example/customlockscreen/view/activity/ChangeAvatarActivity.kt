@@ -25,8 +25,7 @@ import com.example.library.PermissionX
 class ChangeAvatarActivity : AppCompatActivity() {
 
     lateinit var binding: ActivityChangeAvatarBinding
-    lateinit var bitmap:Bitmap
-
+    var bitmap: Bitmap? = null // 设置为可空类型
     val TAG = "ChangeAvatarActivity"
 
 
@@ -113,8 +112,12 @@ class ChangeAvatarActivity : AppCompatActivity() {
         super.onOptionsItemSelected(item)
         when(item.itemId){
             R.id.sure ->{
-                saveAvatar(this,bitmap,"avatar")
-                finishAfterTransition()
+                if (bitmap != null) {
+                    saveAvatar(this,bitmap!!,"avatar") // 使用非空断言操作符`!!`
+                    finishAfterTransition()
+                } else {
+                    toast("请选择头像")
+                }
             }
         }
         return true
